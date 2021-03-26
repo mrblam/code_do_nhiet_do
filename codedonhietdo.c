@@ -2,6 +2,20 @@
 Do nhiet do dung LM35 va ADC0808 hoac ADC0809
 www.mualinhkien.vn
 */
+// hamdocADC theo kenh
+//ham delay
+//ham giao tiep LCD
+//ham gui 4 bit du lieu ra LCD
+//ham gui lenh cho LCD
+//ham xoa man hinh LCD
+//ham khoi tao LCD
+
+//ham gui 1 ky tu
+//ham gui 1 chuoi ky tu
+//ham chuyen doi hien thi
+//
+
+
 #include <REGX51.H>
 #define VREF			5 //VREF=5V
 //Khai bao chan giao tiep ADC0808
